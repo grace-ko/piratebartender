@@ -3,3 +3,4 @@ Tell your pirate bartender the preferences for yer drinks to generate its ingred
 (OOP exercise)
 
 ![screenshot](screenshot.png)
+![screenshot](drinks-screenshot.png)
